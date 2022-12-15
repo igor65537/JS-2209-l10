@@ -1,0 +1,19 @@
+{
+  "name": "11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igor65537/JS-2209-l10.git"
+  },
+  "author": "igor65537",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igor65537/JS-2209-l10/issues"
+  },
+  "homepage": "https://github.com/igor65537/JS-2209-l10#readme"
+}
